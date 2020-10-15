@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     'chartit',
     #'django-registration',
     'crispy_forms',
-    'six',
 
     #apps
     'mysite',
